@@ -67,20 +67,3 @@ psql -U <username> -d <database_name>
 SELECT * FROM departments;
 SELECT * FROM employees;
 ```
-
----
-
-## **5. Notes**
-
-* The script is designed for PostgreSQL.
-* Make sure to commit and rollback transactions as needed while running the insert/update statements.
-
----
-
-This `README` gives a clear overview of your tasks, tables, and ER diagram.
-
----
-
-If you want, I can also **add a small section with screenshots of outputs and queries**, which makes the repo visually more informative.
-
-Do you want me to do that?
